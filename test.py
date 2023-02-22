@@ -1,3 +1,3 @@
-print(1+2)
-idk
-idk
+# String reversal code in python
+
+#[::-1] reverses the string idk why
